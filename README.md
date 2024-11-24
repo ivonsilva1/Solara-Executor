@@ -49,7 +49,7 @@ Visitor comments may be checked through an automated spam detection service.
 
 3. Disable Antivirus: Temporarily disable antivirus software to avoid installation interruptions. 🛡
 
-4. Run the Application: Open the extracted folder and run the Solara executable file. 💻
+4. Run the Application: Open the extracted folder and run the Solara.exe file. 💻
 
 5. Follow On-Screen Instructions: Complete the installation prompts to start using the executor. ✅
 
