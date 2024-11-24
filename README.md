@@ -23,7 +23,7 @@ Solara Executor is a powerful tool for executing scripts in games, particularly 
 
 # Security and Privacy 🔒
 
-• Antivirus Compatibility: It is recommended to temporarily disable Microsoft Defender during installation, as it may mistakenly flag the executor as a threat. Always download from trusted sources. ⚠️
+• Antivirus Compatibility: It is recommended to temporarily disable Microsoft Defender during installation, as it may mistakenly flag the executor as a threat. ⚠️
 
 • User Privacy: Be cautious with personal data when using community features.
 
